@@ -3,6 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Active Directory Home Lab(https://github.com/Chromaticus/LABURL)
+- <b>Port Scanner(https://github.com/Chromaticus/port-scanner)
 
 <h2> 📜 Certifications:</h2>
 Google IT Support Professional
