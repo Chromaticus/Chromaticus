@@ -4,7 +4,7 @@
 
 - <b>Active Directory Home Lab(https://github.com/Chromaticus/LABURL)
 
-<h2> Certifications:</h2>
+<h2> 📜 Certifications:</h2>
 Google IT Support Professional
 
 ITIL Foundation
