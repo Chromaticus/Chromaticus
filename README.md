@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>Active Directory Home Lab(https://github.com/Chromaticus/LABURL)
+- <b>Active Directory Home Lab(https://github.com/Chromaticus/ActiveDirectoryLab)
 - <b>Port Scanner(https://github.com/Chromaticus/port-scanner)
 
 <h2> 📜 Certifications:</h2>
