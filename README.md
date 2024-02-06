@@ -1,7 +1,8 @@
 <h1>Hi, I'm Coby! <br/><a href="https://github.com/Chromaticus">Programmer</a>, <a href="https://www.linkedin.com/in/cobydryden/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 IT Projects:</h2>
+<h2>👨‍💻 IT and Coding Projects:</h2>
 
+- <b>Machine Learning Churn Prediction (https://github.com/Chromaticus/ML-Churn-Prediction/tree/main)
 - <b>Appointment Scheduling Program(https://github.com/Chromaticus/Software3)
 - <b>Inventory Management System(https://github.com/Chromaticus/SoftwareTry2/tree/main)
 - <b>Active Directory Home Lab(https://github.com/Chromaticus/ActiveDirectoryLab)
