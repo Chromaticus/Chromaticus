@@ -8,6 +8,8 @@
 - <b>Calculator App(https://github.com/Chromaticus/calculator)  
 
 <h2> 📜 Certifications:</h2>
+Google Cybersecurity 
+
 Google IT Support Professional
 
 ITIL Foundation
