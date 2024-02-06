@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
+- <b>Appointment Scheduling Program(https://github.com/Chromaticus/Software3)
 - <b>Active Directory Home Lab(https://github.com/Chromaticus/ActiveDirectoryLab)
 - <b>Port Scanner(https://github.com/Chromaticus/port-scanner)
 - <b>Weather App(https://github.com/Chromaticus/weather)
